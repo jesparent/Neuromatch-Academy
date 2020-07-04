@@ -3,6 +3,7 @@ Welcome! Please free to update and build out Epistemlogical Directories as you s
 
 How to do that?
 - Contribute Resources
+- Make [GitHub issues](https://github.com/Orthogonal-Research-Lab/Neuromatch-Academy/issues) related to questions you might have!
 - Add a topic (either a general topical folder, or a sub-item within such folder)
 - Submit a coding example (or start your own personal folder in the main directory)
 - Create a jupyter notebook walking through an application
